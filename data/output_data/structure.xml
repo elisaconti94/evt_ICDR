@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <msDesc active="1"/>
+   <headerInfo active="1"/>
+   <liste>
+      <listPerson active="1" lang="def">LIST_PERSON</listPerson>
+   </liste>
+   <editions>
+      <edition data-key="dipl">Diplomatic</edition>
+   </editions>
+   <textpage>
+      <text n="1" label="text 1">
+         <pb n="1">ICDR1</pb>
+         <pb n="2">ICDR2</pb>
+         <pb n="3">ICDR3</pb>
+         <pb n="4">ICDR4</pb>
+         <pb n="5">ICDR5</pb>
+         <pb n="6">ICDR6</pb>
+         <pb n="7">ICDR7</pb>
+         <pb n="8">ICDR8</pb>
+         <pb n="9">ICDR9</pb>
+         <pb n="10">ICDR10</pb>
+         <pb n="11">ICDR11</pb>
+         <pb n="12">ICDR12</pb>
+         <pb n="13">ICDR13</pb>
+         <pb n="14">ICDR14</pb>
+         <pb n="15">ICDR15</pb>
+         <pb n="16">ICDR16</pb>
+         <pb n="17">ICDR17</pb>
+         <pb n="18">ICDR18</pb>
+         <pb n="19">ICDR19</pb>
+         <pb n="20">ICDR20</pb>
+         <pb n="21">ICDR21</pb>
+         <pb n="22">ICDR22</pb>
+         <pb n="23">ICDR23</pb>
+         <pb n="24">ICDR24</pb>
+         <pb n="25">ICDR25</pb>
+         <pb n="26">ICDR26</pb>
+         <pb n="27">ICDR27</pb>
+         <pb n="28">ICDR28</pb>
+         <pb n="29">ICDR29</pb>
+         <pb n="30">ICDR30</pb>
+         <pb n="31">ICDR31</pb>
+         <pb n="32">ICDR32</pb>
+         <pb n="33">ICDR33</pb>
+         <pb n="34">ICDR34</pb>
+         <pb n="35">ICDR35</pb>
+         <pb n="36">ICDR36</pb>
+         <pb n="37">ICDR37</pb>
+         <pb n="38">ICDR38</pb>
+         <pb n="39">ICDR39</pb>
+         <pb n="40">ICDR40</pb>
+         <pb n="41">ICDR41</pb>
+         <pb n="42">ICDR42</pb>
+         <pb n="43">ICDR43</pb>
+         <pb n="44">ICDR44</pb>
+         <pb n="45">ICDR45</pb>
+         <pb n="46">ICDR46</pb>
+         <pb n="47">ICDR47</pb>
+         <pb n="48">ICDR48</pb>
+         <pb n="49">ICDR49</pb>
+         <pb n="50">ICDR50</pb>
+         <pb n="51">ICDR51</pb>
+         <pb n="52">ICDR52</pb>
+         <pb n="53">ICDR53</pb>
+         <pb n="54">ICDR54</pb>
+         <pb n="55">ICDR55</pb>
+         <pb n="56">ICDR56</pb>
+         <pb n="57">ICDR57</pb>
+         <pb n="58">ICDR58</pb>
+         <pb n="59">ICDR59</pb>
+         <pb n="60">ICDR60</pb>
+         <pb n="61">ICDR61</pb>
+         <pb n="62">ICDR62</pb>
+         <pb n="63">ICDR63</pb>
+         <pb n="64">ICDR64</pb>
+         <pb n="65">ICDR65</pb>
+         <pb n="66">ICDR66</pb>
+         <pb n="67">ICDR67</pb>
+         <pb n="68">ICDR68</pb>
+         <pb n="69">ICDR69</pb>
+         <pb n="70">ICDR70</pb>
+         <pb n="71">ICDR71</pb>
+         <pb n="72">ICDR72</pb>
+         <pb n="73">ICDR73</pb>
+         <pb n="74">ICDR74</pb>
+         <pb n="75">ICDR75</pb>
+         <pb n="76">ICDR76</pb>
+         <pb n="77">ICDR77</pb>
+         <pb n="78">ICDR78</pb>
+         <pb n="79">ICDR79</pb>
+         <pb n="80">ICDR80</pb>
+         <pb n="81">ICDR81</pb>
+         <pb n="82">ICDR82</pb>
+         <pb n="83">ICDR83</pb>
+         <pb n="84">ICDR84</pb>
+         <pb n="85">ICDR85</pb>
+         <pb n="86">ICDR86</pb>
+         <pb n="87">ICDR87</pb>
+         <pb n="87">ICDR88</pb>
+         <pb n="89">ICDR89</pb>
+         <pb n="90">ICDR90</pb>
+         <pb n="91">ICDR91</pb>
+         <pb n="92">ICDR92</pb>
+         <pb n="93">ICDR93</pb>
+         <pb n="94">ICDR94</pb>
+         <pb n="95">ICDR95</pb>
+         <pb n="96">ICDR96</pb>
+         <pb n="97">ICDR97</pb>
+         <pb n="98">ICDR98</pb>
+         <pb n="99">ICDR99</pb>
+         <pb n="100">ICDR100</pb>
+         <pb n="101">ICDR101</pb>
+         <pb n="102">ICDR102</pb>
+         <pb n="103">ICDR103</pb>
+         <pb n="104">ICDR104</pb>
+         <pb n="105">ICDR105</pb>
+         <pb n="106">ICDR106</pb>
+         <pb n="107">ICDR107</pb>
+         <pb n="108">ICDR108</pb>
+         <pb n="109">ICDR109</pb>
+         <pb n="110">ICDR110</pb>
+         <pb n="111">ICDR111</pb>
+         <pb n="112">ICDR112</pb>
+         <pb n="113">ICDR113</pb>
+         <pb n="114">ICDR114</pb>
+         <pb n="115">ICDR115</pb>
+         <pb n="116">ICDR116</pb>
+      </text>
+   </textpage>
+   <pages>
+      <pair>
+         <pb n="1">ICDR1</pb>
+      </pair>
+      <pair>
+         <pb n="2">ICDR2</pb>
+      </pair>
+      <pair>
+         <pb n="3">ICDR3</pb>
+      </pair>
+      <pair>
+         <pb n="4">ICDR4</pb>
+      </pair>
+      <pair>
+         <pb n="5">ICDR5</pb>
+      </pair>
+      <pair>
+         <pb n="6">ICDR6</pb>
+      </pair>
+      <pair>
+         <pb n="7">ICDR7</pb>
+      </pair>
+      <pair>
+         <pb n="8">ICDR8</pb>
+      </pair>
+      <pair>
+         <pb n="9">ICDR9</pb>
+      </pair>
+      <pair>
+         <pb n="10">ICDR10</pb>
+      </pair>
+      <pair>
+         <pb n="11">ICDR11</pb>
+      </pair>
+      <pair>
+         <pb n="12">ICDR12</pb>
+      </pair>
+      <pair>
+         <pb n="13">ICDR13</pb>
+      </pair>
+      <pair>
+         <pb n="14">ICDR14</pb>
+      </pair>
+      <pair>
+         <pb n="15">ICDR15</pb>
+      </pair>
+      <pair>
+         <pb n="16">ICDR16</pb>
+      </pair>
+      <pair>
+         <pb n="17">ICDR17</pb>
+      </pair>
+      <pair>
+         <pb n="18">ICDR18</pb>
+      </pair>
+      <pair>
+         <pb n="19">ICDR19</pb>
+      </pair>
+      <pair>
+         <pb n="20">ICDR20</pb>
+      </pair>
+      <pair>
+         <pb n="21">ICDR21</pb>
+      </pair>
+      <pair>
+         <pb n="22">ICDR22</pb>
+      </pair>
+      <pair>
+         <pb n="23">ICDR23</pb>
+      </pair>
+      <pair>
+         <pb n="24">ICDR24</pb>
+      </pair>
+      <pair>
+         <pb n="25">ICDR25</pb>
+      </pair>
+      <pair>
+         <pb n="26">ICDR26</pb>
+      </pair>
+      <pair>
+         <pb n="27">ICDR27</pb>
+      </pair>
+      <pair>
+         <pb n="28">ICDR28</pb>
+      </pair>
+      <pair>
+         <pb n="29">ICDR29</pb>
+      </pair>
+      <pair>
+         <pb n="30">ICDR30</pb>
+      </pair>
+      <pair>
+         <pb n="31">ICDR31</pb>
+      </pair>
+      <pair>
+         <pb n="32">ICDR32</pb>
+      </pair>
+      <pair>
+         <pb n="33">ICDR33</pb>
+      </pair>
+      <pair>
+         <pb n="34">ICDR34</pb>
+      </pair>
+      <pair>
+         <pb n="35">ICDR35</pb>
+      </pair>
+      <pair>
+         <pb n="36">ICDR36</pb>
+      </pair>
+      <pair>
+         <pb n="37">ICDR37</pb>
+      </pair>
+      <pair>
+         <pb n="38">ICDR38</pb>
+      </pair>
+      <pair>
+         <pb n="39">ICDR39</pb>
+      </pair>
+      <pair>
+         <pb n="40">ICDR40</pb>
+      </pair>
+      <pair>
+         <pb n="41">ICDR41</pb>
+      </pair>
+      <pair>
+         <pb n="42">ICDR42</pb>
+      </pair>
+      <pair>
+         <pb n="43">ICDR43</pb>
+      </pair>
+      <pair>
+         <pb n="44">ICDR44</pb>
+      </pair>
+      <pair>
+         <pb n="45">ICDR45</pb>
+      </pair>
+      <pair>
+         <pb n="46">ICDR46</pb>
+      </pair>
+      <pair>
+         <pb n="47">ICDR47</pb>
+      </pair>
+      <pair>
+         <pb n="48">ICDR48</pb>
+      </pair>
+      <pair>
+         <pb n="49">ICDR49</pb>
+      </pair>
+      <pair>
+         <pb n="50">ICDR50</pb>
+      </pair>
+      <pair>
+         <pb n="51">ICDR51</pb>
+      </pair>
+      <pair>
+         <pb n="52">ICDR52</pb>
+      </pair>
+      <pair>
+         <pb n="53">ICDR53</pb>
+      </pair>
+      <pair>
+         <pb n="54">ICDR54</pb>
+      </pair>
+      <pair>
+         <pb n="55">ICDR55</pb>
+      </pair>
+      <pair>
+         <pb n="56">ICDR56</pb>
+      </pair>
+      <pair>
+         <pb n="57">ICDR57</pb>
+      </pair>
+      <pair>
+         <pb n="58">ICDR58</pb>
+      </pair>
+      <pair>
+         <pb n="59">ICDR59</pb>
+      </pair>
+      <pair>
+         <pb n="60">ICDR60</pb>
+      </pair>
+      <pair>
+         <pb n="61">ICDR61</pb>
+      </pair>
+      <pair>
+         <pb n="62">ICDR62</pb>
+      </pair>
+      <pair>
+         <pb n="63">ICDR63</pb>
+      </pair>
+      <pair>
+         <pb n="64">ICDR64</pb>
+      </pair>
+      <pair>
+         <pb n="65">ICDR65</pb>
+      </pair>
+      <pair>
+         <pb n="66">ICDR66</pb>
+      </pair>
+      <pair>
+         <pb n="67">ICDR67</pb>
+      </pair>
+      <pair>
+         <pb n="68">ICDR68</pb>
+      </pair>
+      <pair>
+         <pb n="69">ICDR69</pb>
+      </pair>
+      <pair>
+         <pb n="70">ICDR70</pb>
+      </pair>
+      <pair>
+         <pb n="71">ICDR71</pb>
+      </pair>
+      <pair>
+         <pb n="72">ICDR72</pb>
+      </pair>
+      <pair>
+         <pb n="73">ICDR73</pb>
+      </pair>
+      <pair>
+         <pb n="74">ICDR74</pb>
+      </pair>
+      <pair>
+         <pb n="75">ICDR75</pb>
+      </pair>
+      <pair>
+         <pb n="76">ICDR76</pb>
+      </pair>
+      <pair>
+         <pb n="77">ICDR77</pb>
+      </pair>
+      <pair>
+         <pb n="78">ICDR78</pb>
+      </pair>
+      <pair>
+         <pb n="79">ICDR79</pb>
+      </pair>
+      <pair>
+         <pb n="80">ICDR80</pb>
+      </pair>
+      <pair>
+         <pb n="81">ICDR81</pb>
+      </pair>
+      <pair>
+         <pb n="82">ICDR82</pb>
+      </pair>
+      <pair>
+         <pb n="83">ICDR83</pb>
+      </pair>
+      <pair>
+         <pb n="84">ICDR84</pb>
+      </pair>
+      <pair>
+         <pb n="85">ICDR85</pb>
+      </pair>
+      <pair>
+         <pb n="86">ICDR86</pb>
+      </pair>
+      <pair>
+         <pb n="87">ICDR87</pb>
+      </pair>
+      <pair>
+         <pb n="87">ICDR88</pb>
+      </pair>
+      <pair>
+         <pb n="89">ICDR89</pb>
+      </pair>
+      <pair>
+         <pb n="90">ICDR90</pb>
+      </pair>
+      <pair>
+         <pb n="91">ICDR91</pb>
+      </pair>
+      <pair>
+         <pb n="92">ICDR92</pb>
+      </pair>
+      <pair>
+         <pb n="93">ICDR93</pb>
+      </pair>
+      <pair>
+         <pb n="94">ICDR94</pb>
+      </pair>
+      <pair>
+         <pb n="95">ICDR95</pb>
+      </pair>
+      <pair>
+         <pb n="96">ICDR96</pb>
+      </pair>
+      <pair>
+         <pb n="97">ICDR97</pb>
+      </pair>
+      <pair>
+         <pb n="98">ICDR98</pb>
+      </pair>
+      <pair>
+         <pb n="99">ICDR99</pb>
+      </pair>
+      <pair>
+         <pb n="100">ICDR100</pb>
+      </pair>
+      <pair>
+         <pb n="101">ICDR101</pb>
+      </pair>
+      <pair>
+         <pb n="102">ICDR102</pb>
+      </pair>
+      <pair>
+         <pb n="103">ICDR103</pb>
+      </pair>
+      <pair>
+         <pb n="104">ICDR104</pb>
+      </pair>
+      <pair>
+         <pb n="105">ICDR105</pb>
+      </pair>
+      <pair>
+         <pb n="106">ICDR106</pb>
+      </pair>
+      <pair>
+         <pb n="107">ICDR107</pb>
+      </pair>
+      <pair>
+         <pb n="108">ICDR108</pb>
+      </pair>
+      <pair>
+         <pb n="109">ICDR109</pb>
+      </pair>
+      <pair>
+         <pb n="110">ICDR110</pb>
+      </pair>
+      <pair>
+         <pb n="111">ICDR111</pb>
+      </pair>
+      <pair>
+         <pb n="112">ICDR112</pb>
+      </pair>
+      <pair>
+         <pb n="113">ICDR113</pb>
+      </pair>
+      <pair>
+         <pb n="114">ICDR114</pb>
+      </pair>
+      <pair>
+         <pb n="115">ICDR115</pb>
+      </pair>
+      <pair>
+         <pb n="116">ICDR116</pb>
+      </pair>
+   </pages>
+   <idno/>
+</xml>

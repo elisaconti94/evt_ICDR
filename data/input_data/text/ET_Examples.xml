@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <!-- Empty header. In this file it's possible to find just small examples of Embedded Transcription-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <!-- Embedded Transcription examples from TEI Guidelines -->
+    <sourceDoc xml:id="TEI-Examples">
+     <surface xml:id="Bovelles-49r" n="1">
+       <graphic height="1800px" url="Bovelles-49r.png" width="1200px"/>
+ 
+       <line rend="center">De Geometrie</line>
+       <line rend="right">49</line>
+       <zone
+         ulx="160"
+         uly="135"
+         lrx="1040"
+         lry="285">
+         <line rend="center">DV SON ET ACCORD DES CLOCHES ET</line>
+         <line rend="center">desalleures des chevaulx, chariotz et charges, des fontaines et</line>
+         <line rend="center">encyclie du monde et de la dimension du corps humain</line>
+       </zone>
+       <zone 
+         ulx="390"
+         uly="290"
+         lrx="745"
+         lry="340">
+         <line rend="center">Chapitre septiesme</line>
+       </zone>
+       <zone ulx="160"
+         uly="340"
+         lrx="1040"
+         lry="440">
+         <line>1. Le son &amp; accord des cloches pendans en ung mesme </line>
+         <line>axe, est faict en contraires parties</line>
+       </zone>
+       <zone
+         ulx="160"
+         uly="440"
+         lrx="1040"
+         lry="1050">
+         <line>LEs cloches ont quasi fi</line>
+         <line>gures de rondes pyra</line>
+         <line>mides imperfaictes &amp;</line>
+         <line> irregulieres: &amp; leur accord se</line>
+         <line> fait par reigle geometrique. Com</line>
+         <line>me si les deux cloches C &amp; D </line>
+         <line> sont <zone ulx="238" uly="728" lrx="345" lry="778">pendans</zone> à ung mesme axe</line>
+         <line> ou essieu A B: je dis que leur ac</line>
+         <line>cord se fera en cõtraires parties</line>
+         <line> cõme voyez icy figuré. Car quãd </line>
+         <line> lune sera en hault, laultre declinera embas. 
+           Aultrement si elles declinent toutes deux ensembles en une mesme partie, elles seront discord,</line>
+         <line> &amp; sera leur sonnerie mal plaisante à oyr.</line>
+       </zone>
+       <zone>
+         <line>2. Le vray accord de deux cloches par lattouchement </line>
+         <line>des bataulx, est faict diametralement</line>
+       </zone>
+       <zone
+         ulx="600"
+         uly="750"
+         lrx="800"
+         lry="900">
+         <graphic url="Bovelles49r-detail_1.png"/>
+         This is an example of Hot Spot
+       </zone>
+       <zone rendition="HotSpot"
+         ulx="200"
+         uly="1300"
+         lrx="300"
+         lry="1450">
+         <seg>This is an example of Hot Spot</seg>
+         <graphic url="Bovelles49r-detail_2.png"/>
+       </zone>
+     </surface>
+     <surface xml:id="tei_ex_et_2" n="2">
+       <zone>
+         <line>Poem</line>
+         <line>As in Visions of — at</line>
+         <line>night —</line>
+         <line>All sorts of fancies running through</line>
+         <line>the head</line>
+       </zone>
+       <zone>
+         <surface type="newsprint" attachment="glue" flipping="false">
+           <zone>Spring has just set in here, and the weather [...] a steamer </zone>
+         </surface>
+       </zone>
+       <zone>
+         <surface type="newsprint" attachment="glue" flipping="false">
+           <zone>"The shores on either side of the Sound are [...] The In- </zone>
+         </surface>
+       </zone>
+     </surface>
+     </sourceDoc>
+    
+</TEI>

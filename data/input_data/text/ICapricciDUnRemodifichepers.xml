@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">I capricci d'un Re</title>
+            <author> Stefano Pulvirenti</author>
+            <respStmt>
+               <resp>codificato da</resp>
+               <persName>Elisa Conti</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Elisa Conti</publisher>
+            <pubPlace>Siena</pubPlace>
+            <date>Da definire</date>
+            <availability>
+               <p>Il progetto è realizzato per la libera consultazione. Tutti i contenuti sono
+                  riproducibili a patto che se ne indichi la fonte.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Stefano Pulvirenti, I capricci d'un Re</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ICDR1.jpg"/>
+      <graphic url="ICDR2.jpg"/>
+      <graphic url="ICDR3.jpg"/>
+      <graphic url="ICDR4.jpg"/>
+      <graphic url="ICDR5.jpg"/>
+      <graphic url="ICDR6.jpg"/>
+      <graphic url="ICDR7.jpg"/>
+      <graphic url="ICDR8.jpg"/>
+      <graphic url="ICDR9.jpg"/>
+      <graphic url="ICDR10.jpg"/>
+      <graphic url="ICDR11.jpg"/>
+      <graphic url="ICDR12.jpg"/>
+      <graphic url="ICDR13.jpg"/>
+      <graphic url="ICDR14.jpg"/>
+      <graphic url="ICDR14.jpg"/>
+   </facsimile>
+
+   <text>
+      <body>
+         <div1 xml:id="COPERTINA">
+            <pb n="1" xml:id="ICDR1"/>
+            <head rend="align(center)">I capricci d'un Re<lb/>Commedia in cinque atti<lb/>di<lb/>Stefano Pulvirenti</head>
+            <pb n="2" xml:id="ICDR2"/>
+            <p/>
+         </div1>
+         <div1 xml:id="Lista_personaggi">
+            <pb n="3" xml:id="ICDR3"/>
+
+            <head>I capricci d’un Re<lb/> Commedia in cinque atti<lb/> Personaggi</head>
+            <castList>
+               <castItem>
+                  <role>Carlo III, Re delle Due Sicilie.</role>
+               </castItem>
+               <castItem>
+                  <role>Principe Ruffo</role>
+               </castItem>
+               <castItem>
+                  <role>Duca di Eboli</role>
+               </castItem>
+               <castItem>
+                  <role>Marchese Squillace</role>
+               </castItem>
+               <castItem>
+                  <role>Uno scudiere.</role>
+               </castItem>
+               <castItem>
+                  <role>Uno scudiere.</role>
+               </castItem>
+               <castItem>
+                  <role>Principe Corsini. Viceré e Governatore della Sicilia.</role>
+               </castItem>
+               <castItem>
+                  <role>Il Sindaco di Palermo col suo Segretario.</role>
+               </castItem>
+               <castItem>
+                  <role>D. Antonio Alvaro gentiluomo palermitano.</role>
+               </castItem>
+               <castItem>
+                  <role>Giulia, sua moglie.</role>
+               </castItem>
+               <castItem>
+                  <role>Battista</role>
+               </castItem>
+               <castItem>
+                  <role>Corradino</role>
+               </castItem>
+               <castItem>
+                  <role>D. Marcello istitutore di Battista.</role>
+               </castItem>
+               <castItem>
+                  <role>Lorenzo, domestico.</role>
+               </castItem>
+               <castItem>
+                  <role>D. Rocco vecchio usuraio.</role>
+               </castItem>
+               <castItem>
+                  <role>Elisabetta, sua moglie.</role>
+               </castItem>
+               <castItem>
+                  <role>Stella, loro figlia.</role>
+               </castItem>
+               <castItem>
+                  <role>Diego fidanzato di Stella.</role>
+               </castItem>
+               <castItem>
+                  <role>D. Papirio calzolaio e sensale di matrimoni.</role>
+               </castItem>
+               <castItem>
+                  <role>Filomena ostessa.</role>
+               </castItem>
+               <castItem>
+                  <role>Un caporale con delle guardie.</role>
+               </castItem>
+               <castItem>
+                  <role>Un banditore.</role>
+               </castItem>
+               <castItem>
+                  <role>La Corte, con un usciere.</role>
+               </castItem>
+               <castItem>
+                  <role>Quattro sonatori.</role>
+               </castItem>
+               <castItem>
+                  <role>Varii cittadini.</role>
+               </castItem>
+            </castList>
+            
+            <p><lb/> La scena è a <placeName>Palermo</placeName> nell'anno 1740.</p>
+
+            <pb n="4" xml:id="ICDR4"/>
+         </div1>
+         <div1 xml:id="ATTO_I">
+            <div2 xml:id="SCENAI_ATTOI">
+               <pb n="5" xml:id="ICDR5"/>
+               <head>1 <lb/> ATTO PRIMO <lb/> Scena I<lb/>
+                  <placeName>La piazza Marina</placeName><stage><lb/>Entrano <persName>D.
+                        Antonio</persName> e <persName>D. Marcello</persName>.</stage></head>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Credetemi che se non ci fosse scritto il mio nome in testa al biglietto
+                     penserei trattarsi d'un equivoco; perchè io non ho avuto mai relazioni con
+                     questo signor Rocco, e lo conosco appena di vista.</p>
+               </sp>
+               <sp>
+                  <speaker><persName> D. Antonio</persName></speaker>
+                  <p>Ciò conferma la mia ipotesi, che l'affare importante di cui vi parla
+                     nell'invito non è che un pretesto per ottenere da voi un colloquio, e cavarvi
+                     di bocca qualche informazione sul conto di mio figlio. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Ma lo sa lui ch'io sono il suo precettore?</p>
+               </sp>
+               <sp>
+                  <speaker><persName> D. Antonio</persName></speaker>
+                  <p>Lo sa; e come tale anzi si aspetta che gli abbiate insinuato principî sani di
+                     moralità, di religione, e sopratutto di economia. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Anche di economia?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio</persName></speaker>
+                  <p>Oh.. è la sua materia prediletta.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Allora insegnatemi quale intonazione dovrò dare al mio discorso.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio</persName></speaker>
+                  <p>Voi dovete immaginare di essere un avaro; perciò non parlerete d'altro che di
+                     negozî, fallimenti, esproprie, male annate... biasimando il lusso dei Senatori,
+                     la fiscalità del Capitano Giustiziere, la passione dei nobili per le feste e
+                     pei conviti... elogiando invece la vita di campagna, la dieta vegetariana, il
+                     vino annacquato, l'uso di andare a piedi e vestire abiti leggieri, sempre a
+                     riguardo della salute. Se poi prende lui la parola calate la testa ad ogni
+                     proposizione ripetendo: benissimo, proprio così, siamo pienamente di
+                     accordo.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello </persName></speaker>
+                  <p>E se l'argomento cade su vostro figlio Battista?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio</persName></speaker>
+                  <p>Userete la stessa battuta; senza perdervi in troppi entusiasmi e sproloquî;
+                     poichè con le persone diffidenti è meglio esser parchi di<pb n="6"
+                        xml:id="ICDR6"/>parole; ma limitandovi ad un accenno delle sue virtù piu
+                     spiccate, quale l'intelligenza, la nobiltà e lealtà di carattere, l'amore
+                     dell'ordine e della parsimonia. Per qualunque altra domanda che D. Rocco potrà
+                     farvi intorno al suo stato di salute e alle condizioni economiche della
+                     famiglia, evitate di scendere a particolari; direte semplicemente: è un giovine
+                     di sana costituzione, è una famiglia rispettata ed agiata... che sa tenersi in
+                     bilico...</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello </persName></speaker>
+                  <p>Ho capito. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio </persName></speaker>
+                  <p>Notando com'esso accoglie tali notizie, e quale interesse dimostra sua figlia
+                     per lo stato del matrimonio e per la persona di Battista. Badate, chè questo è
+                     importante.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello </persName></speaker>
+                  <p>Lo credo, ma... mi occorrerebbe una sottana.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio </persName></speaker>
+                  <p>Perchè una sottana?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello </persName></speaker>
+                  <p>Perché 3 cose al mondo sono difficili ad esplorare: il centro dell'Africa, la
+                     profondità dell'oceano e il cuor della donna. S'io fossi stato una donzella sua
+                     pari avrei potuto saper molto; essendo invece un uomo sconosciuto o non saprò
+                     nulla o saprò il contrario di quel che è. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio </persName></speaker>
+                  <p>Basta a voi non manca senno: regolatevi come credete; </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello </persName></speaker>
+                  <p>A rivederci. </p>
+               </sp>
+               <stage>(escono)</stage>
+            </div2>
+            <div2 xml:id="SCENAII_ATTOI">
+               <head>SCENA II<lb/><placeName>La stessa: davanti all'osteria dell'“Edera„
+                  </placeName></head>
+               <stage>Entrano D. Papirio e Lorenzo.</stage>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>(fermandosi sulla soglia) Ehi, di casa! </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <!--<stage>(da dentro)</stage>-->
+                  <p> D. Papirio favorite. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Lorenzo</persName></speaker>
+                  <p>Servo vostro, madama. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>(avanzandosi) Anche voi, D. Lorenzo? </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Pace e salute! (scoperchiando una pentola) Che si mangia oggi? </p>
+               </sp>
+               <pb n="7" xml:id="ICDR7"/>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Code di ranocchi e lucerte aggrassate. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>(assaggiando) Questa è pecora a stufato; ed è cotta. A me un piatto!</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>La pecora è d'una comitiva di amici, che aspetto a momenti. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>E allora friggimi un <hi rend="italic">rotolo</hi> di baccalà. La minestra la
+                     mangerò dopo. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Tornate fra 2 ore e sarete servito.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Come, fra 2 ore?! Due ore per un pranzetto? ma tu scherzi. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Lorenzo</persName></speaker>
+                  <p>In fede mia sono troppe 2 ore, magari che aveste una sola pentola di terracotta
+                     e un fascio di sarmenti verdi,</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Però, voi non sapete che pranzo ordinerà.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Via, via, dà un <hi rend="italic">mezzo</hi> di vino a lui e un altro a me. Qua
+                     c'è il <hi rend="italic">carlino</hi>, e vò uscire cieco da questa porta se
+                     prendo più un uovo a credenza. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Pagatemi allora il conto della sera di S. Pietro, e tutto quello della
+                     Quaresima: i 5 rotoli di <hi rend="italic">stocco</hi>, il mezzo <hi
+                        rend="italic">cafiso</hi> di olio... </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p> E un altro mezzo che me ne darete sta sera, e segnamo uno. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>La <hi rend="italic">pezza</hi> di ricotta salata, il <hi rend="italic"
+                        >garozzo</hi> di olive bianche... </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Che erano tutte fradice e piene di vermi.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>I 5 pettini di fichi secchi, il <hi rend="italic">cantàro</hi> di carbone, le 3
+                     quartare di vino. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Altolà! quello non era vino, era lavatura di vinacce, pessima lavatura, ch'io
+                     bevvi in una settimana mangiando fave arrostite.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Come? il vino di Partinìco comprato a 27 <hi rend="italic">tarì</hi> il <hi
+                        rend="italic">carico</hi>?!</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Sissignora!... ma abbreviamo il discorso. Giacché non mi avete più fiducia
+                     sarete compiacente di scrivere tutta questa roba sul muro prima d'imbiancare la
+                     casa, chè io mi firmerò sotto: vostro per sempre debitore umilissimo Pietro
+                     Marmitta.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Padrone mio, D. Pietro, ve ne prego</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p> Avventore fedelissimo, ve ne scongiuro, e debitore fino alla morte. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Lorenzo</persName></speaker>
+                  <p>L'intenzione è onesta.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Sicuro: perchè riconoscere il proprio debito significa pagarlo. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Lorenzo</persName></speaker>
+                  <p>Non c'è dubbio.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Ed io non solo lo riconosco, ma lo attesto avanti il Cielo e la Terra.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Lorenzo</persName></speaker>
+                  <p>In fede mia questo è positivo: voi potete dirvi soddisfatta.</p>
+               </sp>
+               <pb n="8" xml:id="ICDR8"/>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Soddisfatta e pagata, ché i denari alla fine sono suoi, ed io non rappresento
+                     che il depositario.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Insomma avete intenzione voi di pranzare stasera?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Che vuol dire ho intenzione?.. La mia parola è una. Vi basta mezzora? fra 20
+                     minuti sarò qui. (fa per andarsene)</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Un momento, chè ho da darvi un'ambasciata.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Lorenzo, tu te ne vai? senti, di' al tuo padrone che attendo il suo avviso per
+                     venire; e risolva presto se non vuol trovare il seggio occupato </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Lorenzo</persName></speaker>
+                  <p>Va bene: buona sera a entrambi. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Buona sera. (Lorenzo esce) Vi è incontrato D. Diego?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Perchè? si sarebbe convertito forse il popolo ebreo?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Altro che convertito: gliene ho detto tante che con tutta la sua <hi
+                        rend="italic">sboria</hi> l'ho fatto valere stavolta 3 denari orbi. Heus,
+                     gli ho detto, di qua non si esce: o voi pagate la senserìa a D. Papirio, o io
+                     mi ritiro tutto il denaro che vi ho prestato. E lo farò per quanto è vero che
+                     mi chiamo Filomena Baratta, altrimenti su questa soglia non lui e non cento
+                     come lui vi metteranno più piede. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Oh, se ci credo! Non siete stata buona a svincolare i vostri crediti, tuttochè
+                     io vi pagava gl'interessi al 7, e volete ora svincolare il mio?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Sputatemi in faccia se non vi farò contare 25 <hi rend="italic">onze</hi> con
+                     12 <hi rend="italic">tarì</hi> di regalo. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>E che ci avete aspettato allora a farvele consegnare?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Avete compiuto voi il vostro servizio?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Io non l'ho compiuto? che per soddisfare i suoi capricci ho rotto mezza dozzina
+                     di scarpe, e consumata la salute, e strisciato per terra come un verme, e
+                     procacciatimi odî, e perduto clienti e anticipate spese? Domandate a questo
+                     ingrato quali condizioni mi ha imposto. Ah!... la dote non deve essere meno di
+                     4 mila onze... eccone qua 10 mila. La giovane dev'essere possibilmente figlia
+                     unica... unica <hi rend="italic">semper</hi> e <hi rend="italic">pro
+                        semper</hi> perchè sua madre è vecchia. Non deve avere più di 24 anni,... di
+                     19 e 7 mesi. Dev'essere di bello aspetto... una fra mille. Deve avere una
+                     statura regolare... 3 dita più alta di lui..; nè questo è tutto: <pb n="9"
+                        xml:id="ICDR9"/>deve avere buoni denti... non le deve puzzare l'alito...
+                     nella sua famiglia non ci devono essere pazzi, tisici e birbanti... non deve
+                     avere gli occhi verdi, nè soffrire di granulazioni, e non deve cercare teatri,
+                     balli e società... dev'essere economista... Accidente a lui e a tutta la sua
+                     razza!..</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Asino voi che accettaste tutti questi patti. Anche gli occhi verdi! </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Li accettai perchè mi sentivo abile di adempirli.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>E se siete abile perchè non persuadete D. Rocco a dare l'assenso, come
+                     giustamente dice D. Diego?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Io non l'ho quest'obbligo. È egli ben visto dalla madre? è riamato dalla
+                     figlia?.. ha difficoltà il Parroco a sposarli?.. il mio lavoro è terminato e mi
+                     spetta la paga. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Voi non avrete manco un tornese se prima non fate riconciliare D. Rocco con sua
+                     moglie. Velo dice Mena Baratta.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Che... che... sentiamo quest'altra: io devo fare da sensale e da giudice di
+                     pace?!... Bravo! Dopo poi che i due vecchi si saranno riconciliati m'imporrà
+                     una nuova condizione: che sua moglie non sia sterile. Ha! Papirio... Papirio,
+                     sarebbe meglio che ti chiamassi <hi rend="italic">papero</hi> dal momento che
+                     un bardassone è riuscito ad appiccicarti una coda di carta sulla giamberga, ed
+                     esporti alla berlina del pubblico. Non lo voglio vedere più! E badi ch'io non
+                     mi ripigli il mio fiato, eh? perchè il nostro servizio si vende all'asta.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Buon angelo del Cielo!.. che non vi scappi una simile parola davanti a lui,
+                     altrimenti non so cosa succederà. Che siete pazzo che prima gettate l'osso al
+                     cane e poi cercate di tirarglielo dalla bocca?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>No, glielo avete a dire, e a voce alta. Chi nega la mercede all'operaio è il
+                     più ladro dei ladri. Io ero obbligato d'indicargli il nido sull'albero, non di
+                     procurargli la scala per prenderlo. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Questo è giusto: ma, per adesso andatevene, e lasciate a me l'incarico di
+                     parlargli chè penserò io a persuaderlo. </p>
+               </sp>
+               <sp>
+
+                  <speaker><persName>D. Papirio</persName></speaker>
+                  <p>Va bene. (escono)</p>
+               </sp>
+            </div2>
+            <div2 xml:id="SCENAIII_ATTOI">
+               <pb n="10" xml:id="ICDR10"/>
+               <head>6<lb/>SCENA III<lb/>La stessa come nella I</head>
+               <stage>Entrano D. Antonio e D. Marcello.</stage>
+               <sp>
+                  <speaker><persName>D. Antonio</persName></speaker>
+                  <p>Ma qui c'é un mistero! Come?... gli amici miei più intimi ignorano di che
+                     colore è il tetto della mia casa, e costui senza conoscerne manco il
+                     frontespizio mi fa l'inventario di ciò che v'è dentro?!.. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Per me fu una sorpresa quando nel rapportargli i vostri saluti mi sentii dire:
+                     ho saputo che Battista è malato di mente; seriamente malato, ed anche
+                     pericoloso!</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio</persName></speaker>
+                  <p>Perciò pazzo da catena...! E voi nulla gli rispondeste?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Io cercai di riparare alla meglio, assicurandolo che il suo era stato un
+                     delirio da perniciosa, della quale oggi è perfettamente guarito; ma non mi
+                     parve soddisfatto, perchè la sua bocca restò muta.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio</persName></speaker>
+                  <p> Ecco come la terra vomita i segreti che le affidiamo. La mia sventura era nota
+                     soltanto al medico che ha curato mio figlio, e al fattore di Montecuccio che
+                     l'ha avuto in custodia. Or chi dei due ha parlato? Io non lo so.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Ed anche che lo sappiate, otterrete con ciò che D. Rocco muti opinione? Per me
+                     due sono le vie: o presentarglielo direttamente, tanto più ch'egli vi ha
+                     chiesto di conoscerlo, e il suo stato di salute oggi lo permette, o rinunciare
+                     alla dote. Si sa che i matrimonî che si conchiudono più presto sono sempre i
+                     matrimonî d'interesse. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio</persName></speaker>
+                  <p>Avete detto niente: rinunziare alla dote! E allora perchè si maritano? per
+                     vivere tutti e due sulle mie spalle? Lasciatemi imparentare piuttosto con una
+                     pezzente, chè almeno farò un'opera di carità.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Ma se D. Rocco si sostiene sul serio, cosa vorreste fare?... Dargli ad
+                     intendere p. es. che la malattia di Battista è l'effetto d'una passione che
+                     egli ha per sua figlia?... vi trovereste in contraddizione con quello che ho
+                     detto io; o pure tentare il giuoco suggeritovi dal sensale? arrischiereste la
+                     libertà.</p>
+               </sp>
+               <pb n="11" xml:id="ICDR11"/>
+               <sp>
+                  <speaker><persName>D. Antonio</persName></speaker>
+                  <p> Sentite, ogni partito è buono quando raggiunge lo scopo: l'importante è di
+                     salvare l'onore senza macchiare la coscienza.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Se si può. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Antonio</persName></speaker>
+                  <p>E se non si può si fa come si può. Alla fine c'è il moralista che scioglie i
+                     dubbî e assolve i peccati. Ma che io abbandoni così presto un'impresa che
+                     potrebbe formare la nostra fortuna, no, che non l'intendo; e o di punta o di
+                     taglio una breccia la dovrò aprire</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Marcello</persName></speaker>
+                  <p>Il Cielo vi assista (escono)</p>
+               </sp>
+            </div2>
+            <div2 xml:id="SCENAIV_ATTOI">
+               <head>Scena IV<lb/>La stessa: davanti all'Osteria dell'“Edera„</head>
+               <stage>Entrano Diego e l'Ostessa</stage>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>È venuto D. Papirio?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>È venuto e se n'è andato. Ve lo dissi io di aspettare.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Che canaglia di vecchio!... mi sfugge come una anguilla. Glielo avete
+                     rapportato almeno il mio discorso di iersera? </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Ma è inutile parlargliene, perchè egli è convinto di avere compiuta l'opera
+                     sua, e perciò aspetta la paga.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Paga, per avermi proposto un partito ch'è come dire un fondo ipotecato una
+                     coppa d'oro in fondo al mare?..</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>E se si riprende la merce?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Che si provi a stendere la mano. Che venga qui qualche cicisbeo col semprevivo
+                     all'occhiello, ed alzi gli occhi verso quelle finestre, o pure cacci fuori il
+                     fazzoletto e faccia la tossetta, o segua la zitella a distanza, o passandole
+                     allato la picchî col gomito... </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p> Zitto, zitto, che viene il cane barbone</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Ritiratevi meglio; perchè lo stare insieme ne pregiudica.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Ne pregiudica di che?... Ognuno è padrone in casa sua.</p>
+               </sp>
+               <pb n="12" xml:id="ICDR12"/>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Eh, via... chè gli devo parlare.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>(andandosene) <hi rend="italic">Acqua e focu dacci locu</hi></p>
+               </sp>
+               <!-- <p>(spunta D. Rocco e Stella)</p>-->
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Buona sera signor Rocco... Signor Rocco l'ho salutata. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Vi dissi una volta, e vi ripeto la seconda, ch'io non voglio essere nè
+                     salutato, nè seguito e manco guardato: avete capito? Se siete pazzo c'è la
+                     sferza che vi sana; se poi intendete provocarmi vi avviso che dove la legge
+                     c'è, c'è per tutti, e dove non c'è non c'è per nessuno. Badate.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Io l'ho salutata, signor Rocco, non provocata.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Voi mi avete provocato sapendo ch'io aborro il vostro saluto. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Ma la ragione?...</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Non ho l'obbligo di dirvela... allontanatevi.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Ooh! lo spazzino e il pezzente passano accanto al Re fino a sfiorargli col
+                     braccio la giubba, e <hi rend="italic">Vossìa</hi> vuole imporre limiti di
+                     distanza tra la Sua persona e la mia.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Il pezzente e lo spazzino, cittadini onesti, stringeranno magari la mano al Re,
+                     mentre voi disturbatore e vagabondo non sarete padrone di fissare gli occhi in
+                     faccia a una venditrice di acqua ferrata.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Stella</persName></speaker>
+                  <p>Papà, e che parlare è questo?!... per un saluto offendere così la gente? </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p> Stella taci... Stella non m'irritare... Stella non mi spingere a fare qualche
+                     eccesso perchè avrai tale affronto da dover dire alla terra: apriti e
+                     inghiottimi... Non ve ne volete andare voi dunque?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>No, finchè Vossia non si persuade che i miei piedi sono liberi come il mio
+                     capo, e che di sopra del mio capo non c'è che la volta del cielo.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p> (ad una guardia in distanza) Olà guardia…. sergente!</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Stella</persName></speaker>
+                  <p>Per carità, Diego, allontanatevi: non lo vedete com'è irato?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>(alla guardia) Voi con la sciabola e col pennacchio in testa..! </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Bisogna urlare, signor Rocco, perchè è sordo.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Caporale... aguzzino... portalanterne… sbirro!</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Guardia</persName></speaker>
+                  <p>(contenendo le risa) Che è tutto questo chiasso?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Ah, lo dite, che è; ma intanto non vi voltate; sentite i vagabondi che
+                     provocano i passeggieri, ma intanto non vi muovete. Per la vita! <pb n="13"
+                        xml:id="ICDR13"/>Se aveste veduto due cani azzuffarsi avanti a voi avreste
+                     gridato: <hi rend="italic">passitooh!</hi></p>
+               </sp>
+               <sp>
+                  <speaker><persName>Guardia</persName></speaker>
+                  <p>E dove sono codesti vagabondi? Io qui non vedo altro che <hi rend="italic"
+                        >Vossia</hi> e questo giovinotto che non è certo un vagabondo.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Allora il vagabondo sono io.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Guardia</persName></speaker>
+                  <p>Nè lui, nè vossignoria; quì non ce n'è vagabondi.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Andate, chè un bracco che riconosce la quaglia soltanto dal volo merita
+                     d'essere sparato. Bella guardia urbana! Bella truppa <hi rend="italic"
+                        >babbana</hi>!</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Guardia</persName></speaker>
+                  <p>Ma <hi rend="italic">Vossia</hi> che pretende, che per secondare le sue bizze,
+                     io avessi a compromettere l'onore? Noi cerchiamo reati non rei, noi vogliamo
+                     fatti non parole. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Quand'è così, che possiate sperimentarlo sopra una delle vostre figlie.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Fortunatamente non ne ha figlie.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Guardia</persName></speaker>
+                  <p>Ma insomma, qual'è il motivo della questione?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Io non voglio essere seguìto.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Ed io non voglio essere preceduto.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Non ne voglio io mignatte di dietro.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Ed io neanche cani idrofobi davanti.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Chi è cane idrofobo?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Voi, e ve lo provo: il cane idrofobo assetato vede l'acqua, e non ne può bere;
+                     voi avaro affamato vedete il denaro, e non ne potete usare.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Stella</persName></speaker>
+                  <p>Papà, o ce ne andiamo, o io entro nell'osteria (si affaccia l'ostessa)</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Cosa c'è?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Voi potevate seguitare ad origliare dietro la porta, trattandosi d'un negozio
+                     in cui vi spetta tanta quota di guadagno.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Di quale negozio parla <hi rend="italic">vossia</hi></p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Ve lo direi io se avessi il braccio libero mezzana spudorata, e fuoco di
+                     discordia, e fucina di menzogne e coperchio di fogna.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>A me quest'insulti?... a me? perchè sono femmina? perchè non ho marito?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Fu fortuna per lui essere morto; giacchè per voi ci vorrebbe un marito cieco e,
+                     un confessore sordo.. </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Perchè non ho un uomo che vi afferra per codesta barba di zimbaro, e ve la
+                     frega nel fango come una scopa?...</p>
+               </sp>
+               <pb n="14" xml:id="ICDR14"/>
+               <sp>
+                  <speaker><persName>Guardia</persName></speaker>
+                  <p>Oh.. oh.. statevi zitta: ebbene?!..</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Non mi sto zitta, no; me l'ha a provare questo scellerato ch'io sono coperta di
+                     rogna, o che davvero lo strozzo</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Non tanta baldanza. D. Mena; se no alzo il bastone... veh...</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Vecchio ladro che eravate come un gallo spennato…</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Stella</persName></speaker>
+                  <p>D. Mena! D. Mena!...</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>E vi siete vestito col cuoio dei poveri; usuraio che faceste morire... </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Guardia</persName></speaker>
+                  <p>Silenzio!</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>Un figlio rosicchiato dalle cimici..</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Guardia</persName></speaker>
+                  <p>La volete finire?</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p>E per risparmiare il <hi rend="italic">tarì</hi> avete sfrattato dalla sua casa
+                     un angelo di moglie; una povera vecchia cadente dopo averla spogliata della
+                     dote, dell’oro, della mobiglia…</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Guardia</persName></speaker>
+                  <p>Basta, olà... per la quarta volta o vi conduco ora stesso in caserma.</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Ostessa</persName></speaker>
+                  <p> Ma spero un giorno di vedervi alla porta del l'ospizio, discacciato dal vostro
+                     proprio sangue e ridotto a tale stato, che i vermi dopo morto vi abbiano a
+                     maledire per non trovar nulla da spolpare. Tale fede ho (si ritira)</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p> (alla guardia) Avete visto con che razza di canaglia ho da fare? Già tutto il
+                     quartiere è indignato sentendo le azioni di costoro. Essi, uno (additando
+                     Diego) e una, due (accennando all'ostessa) han fatto lega con mia moglie,
+                     giurando tutt'e tre d'intossicarmi la salute fino a farmi morire di
+                     disperazione. Mi han fatto lanciare pietre contro le finestre, mi han segnato
+                     croci nere sulle mura, e imbrattato di lordure la soglia della porta; son
+                     venuti di notte tempo con gente di mala vita a schiamazzare sotto i miei
+                     balconi con trombe e tamburelli ingiuriandomi con le più laide canzoni; e non
+                     contenti di questo mi han denunziato ai magistrati quale autore di sevizie
+                     contro mia e contro le serve, dipingendomi come un avaro…</p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Ah, questa sì ch'è una nera calunnia!</p>
+               </sp>
+               <sp>
+                  <speaker><persName>D. Rocco</persName></speaker>
+                  <p>Che dà a mangiar loro pane d'orzo, formaggio di capra e riso avariato. <pb
+                        n="15" xml:id="ICDR15"/>E non fosti tu (a Diego) faccia d'Iscariota… </p>
+               </sp>
+               <sp>
+                  <speaker><persName>Diego</persName></speaker>
+                  <p>Sentiamo.</p>
+               </sp>
+
+            </div2>
+         </div1>
+
+      </body>
+   </text>
+</TEI>
