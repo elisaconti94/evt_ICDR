@@ -7,7 +7,6 @@ L’idea è nata grazie alla progettazione di una Biblioteca digitale dedicata a
 
 <h3>La visualizzazione e il proposito</h3>
 <p>Lo strumento di visualizzazione impiegato è il software EVT1 (Edition Visualization Technology) che permette al lettore di analizzare contemporaneamente il manoscritto digitalizzato e la sua trascrizione. In questo modo il fruitore dell’edizione potrà osservare egli stesso la grafia dell’autore, la fattura del quaderno, gli errori del testo. Nonostante si perda l’esperienza tattile dello sfogliare il manoscritto, o non si sia direttamente esposti dell’aura di cui parla Walter Benjamin, grazie ad una visualizzazione di questo tipo è possibile vivere un’esperienza maggiormente autentica rispetto alla sola lettura di una trascrizione del testo.</p>
-`castList`
 <p>Il proposito è dunque quello di andare oltre la semplice lettura ma proporre uno strumento filologico che porti il lettore dentro il testo e sulla sua superficie materiale intrisa di un inchiostro che può egli stesso osservare.</p>
 
 
